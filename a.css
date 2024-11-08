@@ -1,0 +1,7 @@
+
+body{display:contents; direction: rtl;}
+#div1{height: 50px;text-align: center;font-size: 40px;color: rgb(255, 0, 0);;}
+#div2{background-color: rgb(42, 44, 39); margin: 0px; height:500px ;}
+#div3{background-color: rgb(255, 0, 0);height: 50px;}
+#d1{background-color: rgb(0, 253, 34);width: 30%; height: 500px;display: inline-block;margin: 0px;}
+#d2{background-color: rgb(238, 255, 0); width: 69%; height: 500px;display: inline-block;margin: 0px;}
