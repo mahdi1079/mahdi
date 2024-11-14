@@ -1,7 +1,16 @@
 
 body{display:contents; direction: rtl;}
 #div1{height: 50px;text-align: center;font-size: 40px;color: rgb(255, 0, 0);;}
-#div2{background-color: rgb(42, 44, 39); margin: 0px; height:500px ;}
-#div3{background-color: rgb(255, 0, 0);height: 50px;}
-#d1{background-color: rgb(0, 253, 34);width: 30%; height: 500px;display: inline-block;margin: 0px;}
-#d2{background-color: rgb(238, 255, 0); width: 69%; height: 500px;display: inline-block;margin: 0px;}
+#div2{background-color:  rgb(69, 54, 199); margin: 0px; height:500px ; display: flex;padding: 5px;height: 100%;}
+#div3{background-color: rgb(253, 118, 27);height: 50px;text-align: center;}
+#d1{background-color: rgb(253, 118, 27);flex:1;padding: 8px;}
+#d2{background-color: rgb(69, 54, 199); flex:4;height: 100%;}
+#a1{border-style: double;margin: 5px;padding: 5px;border-radius: 5px;border-color: aqua;}
+#shomare{color: rgb(255, 255, 255);text-align: center;}
+#f1{margin: 5px;display: inline-block;background-color: rgb(0, 255, 255);}
+#lebas{margin: 5px;display: block;font-size: 20px;}
+#lebas2{width: 125px;}
+#fotbal{margin: 8px;flex-wrap: 2;display: inline-block;width: 52%;}
+#fotbal2{display: inline-block;margin: 10px;flex-wrap: 2;width: 50%;}
+#fotbal3{display: inline-block;margin: 10px;flex-wrap: 2;width: 50%;text-align: center;}
+#tamas{font-size: 20px; margin: 5px;display: inline;}
