@@ -16,7 +16,7 @@ include("header.html");
      <input type="text" id="repasword">
      </div>
 </form>
-<button onclick="ngh()">gfgfg</button> 
+<button onclick="ngh()" id="log">ثبت نام</button> 
    
      
 <script src="login.js"></script>
