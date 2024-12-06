@@ -9,8 +9,7 @@ include("header.html");
 <div id="f1"><a href="alebas.php"><img id="lebas2" src="4/2.jpg" alt=""></a><a id="lebas" href="alebas.php">ست لباس آرژانتین</a></div>
 <div id="f1"><a href="rtenis.php"><img id="lebas2" src="4/7336510.jpg "alt=""></a><a id="lebas" href="">راکت تنیس</a></div>
 <div id="f1"><a href="tlebas.php"><img id="lebas2" src="4/ed6fbf.webp" alt=""></a><a id="lebas" href="tlebas.php">انواع توپ</a></div>
-</section>
-
+</section>=
 <?php
 include("footer.html");
 ?>
