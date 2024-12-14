@@ -3,9 +3,9 @@ function ngh(){
     a=0;
     b=0;
     c=0;
-    a=document.getElementById("username").value;
-    b=document.getElementById("pasword").value;
-    c=document.getElementById("repasword").value;
+    a=document.getElementById("exampleFormControlInput1").value;
+    b=document.getElementById("inputPassword5").value;
+    c=document.getElementById("inputPassword5").value;
    
       if( a!=0 && b!=0 && c!=0){
         if(c==b){

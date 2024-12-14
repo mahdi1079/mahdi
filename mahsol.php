@@ -2,7 +2,7 @@
 include("header.html");
 ?>
 
-<section id="d2">
+<section id="d2" class="col-8 bg-info list-inline ">
 <div id="f1"><a href="ttenis.php"><img id="lebas2" src="4/images (1).jpg" alt=""></a><a id="lebas" href="ttenis.php"> توپ تنیس</a></div>
 <div id="f1"><a href="mtenis.php"><img id="lebas2" src="4/.5.jpg" alt=""></a><a id="lebas" href="mtenis.php"> میز تنیس</a></div>
 <div id="f1"><a href="plebas.php"><img id="lebas2"src="4/images.jpg" alt=""></a><a id="lebas" href="plebas.php">ست لباس پرتغال</a></div>
