@@ -1,10 +1,10 @@
 <?php
 include("header.html");
 ?>
-<section id="d6" class="col-8 bg-info list-inline m-5 ">
+<section id="d6" class="col-10 list-inline m-2 card ">
 
-   <div class="col-5 m-5">
-   <div class="mb-3">
+   <div class="col-6 m-5">
+   <div class="mb-5">
   <label for="exampleFormControlInput1" class="form-label">Email address</label>
   <input type="email" class="form-control" id="exampleFormControlInput1" placeholder="name@example.com">
 </div>
